@@ -3,4 +3,11 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+    <color name="colorBackground">#f6f4e6</color>
+    <color name="colorButton">#41444b</color>
+    <color name="colorText">#fddb3a</color>
+    <color name="stage1">#00b7c2</color>
+    <color name="stage2">#b52b65</color>
+    <color name="stage3">#ed6663</color>
 </resources>
+
